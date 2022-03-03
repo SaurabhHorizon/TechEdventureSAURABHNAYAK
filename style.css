@@ -1,0 +1,13 @@
+.gallery{
+    margin: 30px 70px;
+}
+.gallery img{
+    transition: 1s;
+    padding: 5px;
+    width: 250px;
+    align-content: center;
+}
+.gallery img:hover{
+    filter: grayscale(100%);
+    transform: scale(1.1);  
+}
