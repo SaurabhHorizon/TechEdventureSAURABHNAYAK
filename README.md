@@ -1,2 +1,3 @@
-# TechEdventureSAURABHNAYAK
-Task 5
+This is a basic project were we can see the images and expand its size in order to download it or just to see it...
+
+this gallery required lots of work right now however this is not any extra ordinary work so you will forget about it in the end
